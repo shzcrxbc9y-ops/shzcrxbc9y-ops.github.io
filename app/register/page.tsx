@@ -10,6 +10,7 @@ interface FormErrors {
   lastName?: string
   email?: string
   password?: string
+  confirmPassword?: string
   general?: string
 }
 
